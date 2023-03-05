@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: local("Inter-Regular"),
+  url("../src/assets/fonts/Inter/static/Inter-Regular.ttf") format("trueType")
+  ;
+}
+
+@font-face {
+  font-family: "Inter-Bold";
+  src: local("Inter-Bold"),
+  url("../src/assets/fonts/Inter/static/Inter-Bold.ttf") format("trueType")
+  ;
+}
+
+@font-face {
+  font-family: "Inter-Light";
+  src: local("Inter-Light"),
+  url("../src/assets/fonts/Inter/static/Inter-Light.ttf") format("trueType")
+  ;
+}
+
+@font-face {
+  font-family: "FamiljenGrotesk-Bold";
+  src: local("FamiljenGrotesk-Bold"),
+  url("../src/assets/fonts/Familjen_Grotesk/static/FamiljenGrotesk-Bold.ttf") format("trueType")
+  ;
+}
+
+@font-face {
+  font-family: "FamiljenGrotesk-SemiBold";
+  src: local("FamiljenGrotesk-SemiBold"),
+  url("../src/assets/fonts/Familjen_Grotesk/static/FamiljenGrotesk-SemiBold.ttf") format("trueType")
+  ;
+}
+
+@font-face {
+  font-family: "FamiljenGrotesk-Regular";
+  src: local("FamiljenGrotesk-Regular"),
+  url("../src/assets/fonts/Familjen_Grotesk/static/FamiljenGrotesk-Regular.ttf") format("trueType")
+  ;
+}
